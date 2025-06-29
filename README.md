@@ -5,8 +5,9 @@ Welcome to my portfolio! I document a summary of my projects here. (Content of t
 - [R](#R)
 - [Python](#Python)
 - [SPSS](#SPSS)
-- [Tableau](#Tableau)
+- [SQL](#SQL)
 - [PowerBI](#PowerBI)
+- [Others](#Others)
 
 ## R
 
@@ -33,20 +34,24 @@ Welcome to my portfolio! I document a summary of my projects here. (Content of t
 | 💵 [Variable Analysis of Banks' Ratio Data](https://github.com/Edanur-Y/Variable-Analysis-of-Banks-Ratio-Data) | Jan. 2025 | Testing variables for multicollinearity, multivariate normality and analyzing outliers and missing values. (+R) |
 | 🔎 [Cramér’s V and ETA Correlation Ratio Examples](https://github.com/Edanur-Y/Cramer-s-V-and-ETA-Correlation-Ratio-Examples) | Jan. 2025 | Testing correlation between two categorical(nominal) variables and testing correlation between a non-dichotomous categorical(nominal) variable and a quantitative variable. |  
 
-
-# Working on it! ⬇
-## Tableau
+## SQL
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-|  []() | . 2025 |  |
-|  []() | . 2025 |  |
+| 👷🏻‍♀️ [Architect's Task management System](https://github.com/Edanur-Y/Mimarlik-Ofisi-Gorev-Takip-Sistemi) | May. 2025 | Creating a database system that will allow an architect to track their tasks. |
 
 ## PowerBI
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-|  []() | . 2025 |  |
-|  []() | . 2025 |  |
+| 💱 [Privatization In Turkey:1990-2025](https://github.com/Edanur-Y/Privatization-In-Turkey-Last-35-Years) | Jun. 2025 | Visualizing privatizations in Turkey in the last 35 years. |
+
+## Others
+
+| Project Link | Completion Date | Project Description | 
+|---|---|---|
+| 🙂🙁 [Streamlit Turkish Sentiment App](https://github.com/Edanur-Y/Streamlit-Turkish-Sentiment-App) | Mar. 2025 | Deploying a Streamlit App on AWS (Docker) [Error] |
+
+
 
 
