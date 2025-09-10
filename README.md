@@ -31,8 +31,9 @@ Welcome to my portfolio! I document a summary of my projects here. (Content of t
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-| 💵 [Variable Analysis of Banks' Ratio Data](https://github.com/Edanur-Y/Variable-Analysis-of-Banks-Ratio-Data) | Jan. 2025 | Testing variables for multicollinearity, multivariate normality and analyzing outliers and missing values. (+R) |
+| 💵 (1) [Variable Analysis of Banks' Ratio Data](https://github.com/Edanur-Y/Variable-Analysis-of-Banks-Ratio-Data) | Jan. 2025 | Testing variables for multicollinearity, multivariate normality and analyzing outliers and missing values. (+R) |
 | 🔎 [Cramér’s V and ETA Correlation Ratio Examples](https://github.com/Edanur-Y/Cramer-s-V-and-ETA-Correlation-Ratio-Examples) | Jan. 2025 | Testing correlation between two categorical(nominal) variables and testing correlation between a non-dichotomous categorical(nominal) variable and a quantitative variable. |  
+| 💵 (2) [Analysis of Banks' Ratio Data](https://github.com/Edanur-Y/Analysis-of-Banks-Ratio-Data) | Jun. 2025 | Performing factor, cluster and discriminant analysis. |
 
 ## SQL
 
